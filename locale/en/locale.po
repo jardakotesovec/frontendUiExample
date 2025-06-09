@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-02-13T00:55:57+00:00\n"
+"PO-Revision-Date: 2020-02-13T00:55:57+00:00\n"
+"Language: \n"
+
+msgid "plugins.generic.frontendUiExample.displayName"
+msgstr "Frontend UI Example"
+
+msgid "plugins.generic.frontendUiExample.description"
+msgstr "Illustrates how to add Vue.js component to Reader UI."
