@@ -1,7 +1,9 @@
 <template>
   <div>{{ fuiDataParsed.titleLabel }}</div>
   <ul>
-    <li v-for="item in fuiDataParsed.itemsList">{{ item }}</li>
+    <li v-for="(item, index) in fuiDataParsed.itemsList" :key="index">
+      {{ item }}
+    </li>
   </ul>
 </template>
 
